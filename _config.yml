@@ -1,9 +1,9 @@
-title: Ying And Yang 
+title: Yin And Yang 
 description: "Classes methods lessons"
 owner_name: Hope Fune 
 github_username: McHopie
-github_repo: "Ying and Yang" 
-baseurl: "/yingyang"
+github_repo: "Yin and Yang" 
+baseurl: "/yinyang"
 future: true
 remote_theme: jekyll/minima
 minima:
