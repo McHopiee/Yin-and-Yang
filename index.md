@@ -21,6 +21,7 @@ Go to Blog in the top left and scroll down to find the lessons, or these navigat
     </a>
     <a href = "https://mchopiee.github.io/Yin-and-Yang/2025/01/07/Homework_IPYNB_2_.html" class ="button link">
         <button>Homework</button>
+    </a>
 </div>
     
 
